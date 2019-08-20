@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Recyler View</string>
+    <string name="heroes_name">Nama Hero</string>
+    <string name="from">Asal</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with Cardview</string>
+    <string name="description">Deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
